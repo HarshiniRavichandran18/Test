@@ -15,4 +15,5 @@ CREATE TABLE IF NOT EXISTS products (
 conn.commit()
 conn.close()
 
+
 print("Database created successfully")
